@@ -1,8 +1,5 @@
-
-
-
 export default function Home() {
   return (
-    <h1 className="font-bold">Hilink</h1>
+    <div>Main</div>
   )
 }
