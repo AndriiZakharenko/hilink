@@ -13,7 +13,7 @@ const Navbar = () => {
           width={74}
           height={29}
           priority
-          style={{ width: "100%", height: "auto" }}
+          style={{ width: "auto", height: "auto" }}
         />
       </Link>
 
