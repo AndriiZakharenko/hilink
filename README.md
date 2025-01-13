@@ -5,8 +5,8 @@
 - Created a modern travel landing page
 ### Stack
 
-- HTML (BEM)
-- CSS (TailWind)
+- HTML (Atomic)
+- CSS (Tailwind)
 - JS
 - Adaptive
 - React (19)
