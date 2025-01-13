@@ -13,7 +13,6 @@ const Hero = () => {
           width={50}
           height={50}
           className="absolute left-[-5px] top-[-30px] w-10 lg:w-[50px]"
-          style={{ width: "auto", height: "auto" }}
         />
         <h1 className="bold-52 lg:bold-88">Putuk Truno Camp Area</h1>
         <p className="regular-16 mt-6 text-gray-30 xl:max-w-[520px]">
@@ -66,7 +65,6 @@ const Hero = () => {
                 alt="close"
                 width={24}
                 height={24}
-                style={{ width: "auto", height: "auto" }}
               />
             </div>
             <p className="bold-20 text-white">Aguas Calientes</p>
