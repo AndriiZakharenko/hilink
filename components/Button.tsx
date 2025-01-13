@@ -22,7 +22,6 @@ const Button = ({ type, title, icon, variant, full }: ButtonProps) => {
           alt={title}
           width={24}
           height={24}
-          style={{ width: "auto", height: "auto" }}
         />
       )}
       <label className="bold-16 whitespace-nowrap cursor-pointer">

@@ -1,5 +1,5 @@
 import Button from "@/components/Button";
-import { NAV_LINKS } from "@/constants/navigation";
+import { NAV_LINKS } from "@/constants/sections/navigation";
 import Image from "next/image";
 import Link from "next/link";
 
@@ -13,7 +13,6 @@ const Navbar = () => {
           width={74}
           height={29}
           priority
-          style={{ width: "auto", height: "auto" }}
         />
       </Link>
 
