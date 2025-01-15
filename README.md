@@ -11,7 +11,6 @@
 - Adaptive
 - React (19)
 - ReactDom
-- React Hook Form
 - Next (15)
 - Vercel
 - Typescript
