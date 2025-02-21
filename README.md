@@ -1,27 +1,25 @@
-# Hilink
+# Hilink  
 
-### Description
+## 🌍 Description  
+Designed a **modern travel landing page** for **Putuk Truno Camp Area**, offering a seamless way to **explore nature’s beauty** and plan adventures. The platform provides an intuitive interface, responsive design, and a smooth **user experience** for discovering **global destinations**.  
 
-- Created a modern travel landing page
-### Stack
+## 🚀 Tech Stack  
+- **HTML (Atomic)** – Structured using atomic design principles  
+- **CSS (Tailwind)** – Utility-first styling for a sleek UI  
+- **JS** – Enhancing interactivity and performance  
+- **Adaptive** – Ensures full responsiveness across devices  
+- **React (19)** – For building dynamic UI components  
+- **ReactDom** – Efficient rendering for web applications  
+- **Next (15)** – Optimized for server-side rendering and SEO  
+- **Vercel** – Hosting and deployment for a fast, scalable experience  
+- **Typescript** – Type safety and improved development workflow  
 
-- HTML (Atomic)
-- CSS (Tailwind)
-- JS
-- Adaptive
-- React (19)
-- ReactDom
-- Next (15)
-- Vercel
-- Typescript
+## 🛠️ Tools & Dependencies  
+- **ESLint** – Enforcing code quality and best practices  
+- **Turbopack** – High-speed JavaScript bundler for efficient builds  
 
-### Tools
+## 🌐 Demo Link
+🔗 [Demo](https://andrii-hilink.vercel.app/)  
 
-- ESlint
-- Turbopack
-
-### Demo Links
-- [Demo](https://andrii-hilink.vercel.app/)
-
-### Inspired by 
-- [Adrian Hajdin](https://github.com/adrianhajdin)
+## ⭐ Inspiration  
+🔗 [Adrian Hajdin](https://github.com/adrianhajdin)  
